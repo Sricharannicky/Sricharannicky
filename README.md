@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sricharan S Y</h1>
+<h1 align="center">Hi 👨🏻‍💻, I'm Sricharan S Y</h1>
 
 <h3 align="center">
 Software Engineer | Java Developer | SAP ABAP Developer | Cloud Computing Enthusiast
