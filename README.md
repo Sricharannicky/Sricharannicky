@@ -22,38 +22,7 @@ Software Engineer | Java Developer | SAP ABAP Developer | Cloud Computing Enthus
 
 </p>
 
----
 
-# 💫 About Me
-
-```java
-public class Sricharan {
-
-    String role = "Software Engineer";
-
-    String education = "B.E. Computer Science Engineering";
-
-    String location = "India";
-
-    String[] interests = {
-        "Java Development",
-        "SAP ABAP",
-        "Cloud Computing",
-        "Machine Learning",
-        "Full Stack Development"
-    };
-
-    String currentlyLearning =
-        "SAP BTP | AWS | Azure | Spring Boot";
-
-    String currentProject =
-        "RideBee - Smart Ride Sharing Platform";
-
-    String goal =
-        "To build scalable software solutions and grow as a Software Engineer.";
-
-}
-```
 
 ---
 
@@ -65,7 +34,8 @@ public class Sricharan {
 - 🚗 Currently building **RideBee**
 - 🤖 Interested in Machine Learning & Predictive Analytics
 - 📚 Practicing Data Structures & Algorithms using Java
-- 🌍 Looking for Software Engineer opportunities
+- 🌍 Looking and Intrested in AI Engineering and Software Related Job roles
+- 🏅 SAP BTP | Cloud Computing - AWS, Azure | Machine Learning | Full Stack Development | Prompt Engineering
 
 ---
 
