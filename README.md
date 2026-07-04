@@ -22,8 +22,6 @@ Software Engineer | Java Developer | SAP ABAP Developer | Cloud Computing Enthus
 
 </p>
 
-
-
 ---
 
 ## 🚀 About Me
@@ -69,18 +67,6 @@ Software Engineer | Java Developer | SAP ABAP Developer | Cloud Computing Enthus
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
----
-
-# 🚀 Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| 🚗 RideBee | Smart Ride Sharing Platform |
-| 🤖 DocuChat | AI-powered document chatbot |
-| 📈 Machine Learning | Predictive Analysis using Scikit-Learn |
-| 🌍 Travel Analytics | Tourism Data Analysis Dashboard |
-| 💼 SAP ABAP | Enterprise Business Applications |
 
 ---
 
