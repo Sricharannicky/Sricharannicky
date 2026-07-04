@@ -18,8 +18,6 @@ Software Engineer | Java Developer | SAP ABAP Developer | Cloud Computing Enthus
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=Sricharannicky&style=for-the-badge&color=0e75b6"/>
-
 </p>
 
 ---
@@ -32,8 +30,8 @@ Software Engineer | Java Developer | SAP ABAP Developer | Cloud Computing Enthus
 - 🚗 Currently building **RideBee**
 - 🤖 Interested in Machine Learning & Predictive Analytics
 - 📚 Practicing Data Structures & Algorithms using Java
-- 🌍 Looking and Intrested in AI Engineering and Software Related Job roles
-- 🏅 SAP BTP | Cloud Computing - AWS, Azure | Machine Learning | Full Stack Development | Prompt Engineering
+- 🌍 Looking for AI Engineering and Software Development roles
+- 🏅 SAP BTP | Cloud Computing | AWS | Azure | Machine Learning | Full Stack Development | Prompt Engineering
 
 ---
 
@@ -81,17 +79,6 @@ Software Engineer | Java Developer | SAP ABAP Developer | Cloud Computing Enthus
 
 ---
 
-# 📊 GitHub Statistics
-
-![](https://github-readme-stats.vercel.app/api?username=Sricharannicky&show_icons=true&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Sricharannicky&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sricharannicky&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-
 # 🎯 Career Goals
 
 - Become an Enterprise Software Engineer
@@ -99,22 +86,6 @@ Software Engineer | Java Developer | SAP ABAP Developer | Cloud Computing Enthus
 - Build scalable cloud applications
 - Contribute to Open Source
 - Continuously improve problem-solving skills
-
----
-
-# 📫 Connect With Me
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/sricharan-s-y-7557172a0/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:charansaravanandgl@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-</p>
 
 ---
 
